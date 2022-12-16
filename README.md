@@ -25,6 +25,10 @@ I will be utilizing my CodeCademy Pro by speedrun through the course again. This
 
 ###### Fun Facts about README.md
 It also have a programming language. I just discovered this while working on this project.
-You can also change your text font on README.md by typing " $\color{#00FF00}{your~text~here}$ "
-Also, I learned that using symbol "~" create a space in README.md
+You can also change your text font on README.md by typing " $\color{#00FF00}{your-text-here}$ "
+
+## HTML Creating
+Once I opened Visual Studio Code, I used the terminal of the VS to type in $\color{#00FF00}{$\color{#00FF00}{touch~index.html}$ }$ to create a index.html
+
+## CSS Creating 
 
