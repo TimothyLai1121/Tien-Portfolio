@@ -14,7 +14,4 @@ I will be utilizing my CodeCademy Pro by speedrun through the course again. This
 
 
 ## Terminal Process
-![][def]
-
-
-[def]: /Tien-Portfolio/assets/Step-01-Directories/images/Step-01.png
+![](./Tien-Portfolio/assets/Step-01-Directories/images/Step-01.png)
