@@ -10,7 +10,7 @@ I will be utilizing Terminal on MacOS to create directories and initiate my Visu
 I will be using GitHub to push and pull my repository.
 I will be utilizing my CodeCademy Pro by speedrun through the course again. This class does require more than 20 hours plus of commitment therefore I think it will be fun by throwing it in
 
-## !What Did I learned through this challenge
+## What Did I learned through this challenge
 
 
 
@@ -20,5 +20,6 @@ I will be utilizing my CodeCademy Pro by speedrun through the course again. This
 
 - Step 1. Open Terminal
 - Step 2. Change my directories into folder I want to work on
-- Step 3. mkdir (making folders) by the name "Challenge 01" and cd to Challenge-1 folder
-- Step 4. git clone my repo on my github and type in $\color{#0000FF}-{code .}$ to open Visual Code Studio 
+- Step 3. $\color{#00FF00){mkdir}$ (making folders) by the name "Challenge 01" and cd to Challenge-1 folder
+- Step 4. git clone my repo on my github and type in $\color{#00FF00}{code .}$ to open Visual Code Studio
+
