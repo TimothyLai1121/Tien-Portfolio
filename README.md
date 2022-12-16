@@ -37,3 +37,8 @@ Once I opened Visual Studio Code, I used the terminal of the VS to type in $\col
 - Step 4. I make sure to command $\color{#00FF00}{git~status}$ and add whatever terminal asking me to do so 
 - Step 5. After adding my commitment comment, type $\color{#00FF00}{git~push}$ to check my work on repo.
 
+## Final Thoughts
+
+Now I have completed my README.md file introduction.
+I have learned that you README.md does have a coding language and I accidentally discovered it while learning HTML and CSS first challenge assignment.
+Thanks
