@@ -1,4 +1,11 @@
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style> 
+
 # Tien-Portfolio
+
 My Introduction for my challenge 1 assignment
 
 ## Introduction
@@ -20,4 +27,4 @@ I will be utilizing my CodeCademy Pro by speedrun through the course again. This
 - Step 1. Open Terminal
 - Step 2. Change my directories into folder I want to work on
 - Step 3. mkdir (making folders) by the name "Challenge 01" and cd to Challenge-1 folder
-- Step 4. git clone my repo on my github and type in <span style="color:blue">code .</span> to open Visual Code Studio
+- Step 4. git clone my repo on my github and type in <r>code .</r> to open Visual Code Studio 
