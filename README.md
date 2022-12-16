@@ -23,12 +23,8 @@ I will be utilizing my CodeCademy Pro by speedrun through the course again. This
 - Step 3. $\color{#00FF00}{mkdir}$ (making folders) by the name "Challenge 01" and cd to Challenge-1 folder
 - Step 4. git clone my repo on my github and type in $\color{#00FF00}{code~.}$ to open Visual Code Studio
 
-###### Fun Facts about README.md
-It also have a programming language. I just discovered this while working on this project.
-You can also change your text font on README.md by typing " $\color{#00FF00}{your-text-here}$ "
-
 ## HTML Creating
-Once I opened Visual Studio Code, I used the terminal of the VS to type in $\color{#00FF00}{$\color{#00FF00}{touch~index.html}$ }$ to create a index.html
+Once I opened Visual Studio Code, I used the terminal of the VS to type in $\color{#00FF00}{touch~index.html}$ to create index.html
 
 ## CSS Creating 
 
