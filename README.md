@@ -32,7 +32,8 @@ Once I opened Visual Studio Code, I used the terminal of the VS to type in $\col
 
 - Step 1. Type $\color{#00FF00}{cd~assets}$ to navigate to my assets folder.
 - Step 2. Type $\color{#00FF00}{mkdir~css}$ to make my css folder.
-- Step 3. Navigate to my css folder by typing $\color{#00FF00}{cd~css}$ and $\color{#00FF00}{touch~style.css}$ to create my style.css
+- Step 3. Navigate to my css folder by typing $\color{#00FF00}{cd~css}$.  
+- Step 4. Type $\color{#00FF00}{touch~style.css}$ to create my style.css
 - Step 4. I make sure to command $\color{#00FF00}{git~status}$ and add whatever terminal asking me to do so 
 - Step 5. After adding my commitment comment, type $\color{#00FF00}{git~push}$ to check my work on repo.
 
