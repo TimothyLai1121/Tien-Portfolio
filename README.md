@@ -28,3 +28,6 @@ Once I opened Visual Studio Code, I used the terminal of the VS to type in $\col
 
 ## CSS Creating 
 
+![CSS Images](/assets/Step-01-Directories/images/CSS.png)
+
+- Step 1.
